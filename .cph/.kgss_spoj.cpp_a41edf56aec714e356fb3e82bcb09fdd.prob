@@ -1,0 +1,1 @@
+{"name":"Local: kgss_spoj","url":"e:\\CP\\Segment Trees\\kgss_spoj.cpp","tests":[{"id":1691823963037,"input":"5\n1 2 3 4 5\n6\nQ 2 4\nQ 2 5\nU 1 6\nQ 1 5\nU 1 7\nQ 1 5","output":"7\n9\n11\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CP\\Segment Trees\\kgss_spoj.cpp","group":"local","local":true}
